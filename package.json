@@ -1,0 +1,15 @@
+{
+  "name": "js_es2020",
+  "version": "1.0.0",
+  "description": "JS ES2020 Features",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "lodash.groupby": "^4.6.0"
+  }
+}
